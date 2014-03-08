@@ -1,13 +1,17 @@
+//This is where real action is happening
+
 <%@ page import="java.io.*,java.util.*,javax.mail.*"%>
 <%@ page import="javax.mail.internet.*,javax.activation.*"%>
 <%@ page import="javax.servlet.http.*,javax.servlet.*" %>
 <%
-final String username = "<username>";
-final String password = "<password>";
+final String username = "<username>";		//change to your gmail username
+final String password = "<password>";		//gmail password
 String email=request.getParameter("email");
-String mailSub="Purchase Order@ Cafe Peter Donuts";
+String mailSub="<Subject>"; 			//Subject of the mail
 String mailBody=request.getParameter("body");
 
+
+//chage these to use some other mail service
 Properties props = new Properties();
 props.put("mail.smtp.auth", "true");
 props.put("mail.smtp.starttls.enable", "true");
