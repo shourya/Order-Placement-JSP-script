@@ -15,6 +15,7 @@ type in your sql credentials ..
 type in your gmail credentials..
 customise the table and that's it.
 
+
 enjoy !!! 
 
 I beleve in making life easy.
