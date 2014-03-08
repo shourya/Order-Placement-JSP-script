@@ -4,8 +4,7 @@ Order-Placement-JSP-script
 A script to place order via mail 
 
 
-Well this is a simple JSP script to automate the process of order mail generation
-for any business owner.
+Well this is a simple JSP script to automate the process of placing order through e-mail with GUI and everything for any business owner .
 
 This script is part of a much larger project(see case_study.pdf),
 but it will work with any aplication using Sql database and make life easy.  
