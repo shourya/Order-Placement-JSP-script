@@ -1,6 +1,14 @@
+<!----
+GUI screen to select supplier for order placement
+
+Developed by:Shourya Sohaney
+follow me @shourya_sohaney
+----->
+
+
 <html>
 <body>
-<CENTER><h1>CAFE PETER DONUTS</h1></CENTER>
+<CENTER><h1>COMPANY NAME</h1></CENTER>
 <hr/>
 <center><h2><u>PURCHASE ORDER FORM</u></h2></center>
 <br/><br/>
