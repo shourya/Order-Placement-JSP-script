@@ -19,5 +19,5 @@ customise the table and that's it.
 
 enjoy !!! 
 
-I beleve in making life easy.
+I believe in making life easy.
  
